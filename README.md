@@ -51,6 +51,7 @@ The project is deployed using **InfinityFree** web hosting.
 
 ## Project Structure
 
+```
 Hostel-Management-System/
 │
 ├── README.md
@@ -75,6 +76,8 @@ Hostel-Management-System/
 │
 ├── fees.html
 ├── fees.php
+```
+
 
 
 ---
