@@ -3,7 +3,7 @@
 The **Hostel Management System** is a web-based application developed to automate and simplify various administrative tasks involved in hostel management.  
 The system focuses on backend operations and provides a centralized platform for managing students, rooms, visitors, complaints, and fee records efficiently.
 
-**Website Link:**https://hostelmanagementsystem.great-site.net/
+**Website Link:** https://hostelmanagementsystem.great-site.net/
 
 ---
 
