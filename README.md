@@ -101,3 +101,12 @@ The project is deployed using **InfinityFree**, enabling the Hostel Management S
 - University residential facilities  
 - Small to medium hostel management systems  
 
+---
+
+## Contributors
+This project was developed as a **collaborative academic project**.
+
+- **Guggilam Leela Naga Sai Sri Saketh**
+- **Seshagiri Bharadwaj Sai**
+- **Nidamanuri Sathvik**
+
