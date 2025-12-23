@@ -76,6 +76,7 @@ Hostel-Management-System/
 ├── fees.html
 ├── fees.php
 
+
 ---
 
 ## Database Design
